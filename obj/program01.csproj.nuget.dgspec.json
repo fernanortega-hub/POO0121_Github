@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad_Git\\program01\\program01.csproj": {}
+    "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad\\POO0121_Github\\program01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad_Git\\program01\\program01.csproj": {
+    "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad\\POO0121_Github\\program01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad_Git\\program01\\program01.csproj",
+        "projectUniqueName": "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad\\POO0121_Github\\program01.csproj",
         "projectName": "program01",
-        "projectPath": "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad_Git\\program01\\program01.csproj",
+        "projectPath": "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad\\POO0121_Github\\program01.csproj",
         "packagesPath": "C:\\Users\\Familia Ortega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad_Git\\program01\\obj\\",
+        "outputPath": "C:\\Users\\Familia Ortega\\Desktop\\CICLO_03\\POO\\Actividad\\POO0121_Github\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Familia Ortega\\AppData\\Roaming\\NuGet\\NuGet.Config"
