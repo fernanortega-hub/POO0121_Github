@@ -1,0 +1,16 @@
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\bin\Debug\net5.0\program01.exe
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\bin\Debug\net5.0\program01.deps.json
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\bin\Debug\net5.0\program01.runtimeconfig.json
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\bin\Debug\net5.0\program01.runtimeconfig.dev.json
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\bin\Debug\net5.0\program01.dll
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\bin\Debug\net5.0\ref\program01.dll
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\bin\Debug\net5.0\program01.pdb
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.csprojAssemblyReference.cache
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.AssemblyInfoInputs.cache
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.AssemblyInfo.cs
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.csproj.CoreCompileInputs.cache
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.dll
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\ref\program01.dll
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.pdb
+C:\Users\Familia Ortega\Desktop\CICLO_03\POO\Actividad\POO0121_Github\obj\Debug\net5.0\program01.genruntimeconfig.cache
